@@ -1,0 +1,15 @@
+{
+  "Users": [
+    {
+      "Id": 1,
+      "UserName": "Cudevlin",
+      "Todos": null
+    },
+    {
+      "Id": 2,
+      "UserName": "FuckMyLife",
+      "Todos": null
+    }
+  ],
+  "Todos": []
+}
