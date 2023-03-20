@@ -61,6 +61,10 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
+      "Id": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
       "Id": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },

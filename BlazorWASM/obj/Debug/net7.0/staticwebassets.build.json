@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5HmctEAW5JK8j/bnGsMSLjoo+BfffAeASeLYpYKPzec=",
+  "Hash": "NRite3Sk3fISMutawFY5DD7rxw86V9SiRbjuvu/ieBE=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -7240,6 +7240,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
+    },
+    {
+      "Identity": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\css\\styles.css",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
       "Identity": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\favicon.png",

@@ -4,7 +4,38 @@
       "Id": 1,
       "UserName": "Cudevlin",
       "Todos": null
+    },
+    {
+      "Id": 2,
+      "UserName": "FuckMyLife",
+      "Todos": null
+    },
+    {
+      "Id": 3,
+      "UserName": "Devlin",
+      "Todos": null
     }
   ],
-  "Todos": []
+  "Todos": [
+    {
+      "Id": 1,
+      "Owner": {
+        "Id": 2,
+        "UserName": "FuckMyLife",
+        "Todos": null
+      },
+      "Title": "Fuck Myself",
+      "IsCompleted": false
+    },
+    {
+      "Id": 2,
+      "Owner": {
+        "Id": 2,
+        "UserName": "FuckMyLife",
+        "Todos": null
+      },
+      "Title": "Fuck Myself",
+      "IsCompleted": false
+    }
+  ]
 }

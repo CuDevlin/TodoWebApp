@@ -1,3 +1,11 @@
+/* /Pages/ViewUsers.razor.rz.scp.css */
+.user-card[b-b8bn5keb44]{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    display: inline-block;
+    margin: 25px;
+    padding: 15px;
+    border-radius: 10px;
+}
 /* /Shared/MainLayout.razor.rz.scp.css */
 .page[b-jk00ermrez] {
     position: relative;
