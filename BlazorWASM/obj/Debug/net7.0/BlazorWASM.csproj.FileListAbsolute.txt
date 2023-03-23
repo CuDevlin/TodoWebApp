@@ -843,3 +843,4 @@ C:\Users\popca\RiderProjects\TodoWebApp\BlazorWASM\obj\Debug\net7.0\refint\Blazo
 C:\Users\popca\RiderProjects\TodoWebApp\BlazorWASM\obj\Debug\net7.0\BlazorWASM.pdb
 C:\Users\popca\RiderProjects\TodoWebApp\BlazorWASM\obj\Debug\net7.0\ref\BlazorWASM.dll
 C:\Users\popca\RiderProjects\TodoWebApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\ViewUsers.razor.rz.scp.css
+C:\Users\popca\RiderProjects\TodoWebApp\BlazorWASM\obj\Debug\net7.0\scopedcss\Pages\UIComponents\FancyCheckBox.razor.rz.scp.css

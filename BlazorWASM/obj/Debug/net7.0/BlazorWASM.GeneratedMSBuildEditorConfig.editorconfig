@@ -32,12 +32,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlVXNlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/EditTodo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdFRvZG8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/ViewTodos.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1RvZG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Shared/SurveyPrompt.razor]
@@ -47,6 +55,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/UIComponents/FancyCheckBox.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVUlDb21wb25lbnRzXEZhbmN5Q2hlY2tCb3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6xhdtlkuo4
 
 [C:/Users/popca/RiderProjects/TodoWebApp/BlazorWASM/Pages/ViewUsers.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmlld1VzZXJzLnJhem9y

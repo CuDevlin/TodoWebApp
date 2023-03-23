@@ -73,6 +73,10 @@
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
+      "Id": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\icons\\edit.gif",
+      "PackagePath": "staticwebassets\\icons\\edit.gif"
+    },
+    {
       "Id": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },

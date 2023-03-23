@@ -1,3 +1,34 @@
+/* /Pages/UIComponents/FancyCheckBox.razor.rz.scp.css */
+.checkbox-container[b-6xhdtlkuo4] {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.checkbox-input[b-6xhdtlkuo4] {
+    position: absolute;
+    transform: scale(0);
+}
+
+.checkbox-input:checked ~ .checkbox-span[b-6xhdtlkuo4] {
+    transform: rotate(45deg);
+    width: 15px;
+    margin-left: 8px;
+    border-color: #24c78e;
+    border-top-color: transparent;
+    border-left-color: transparent;
+    border-radius: 0;
+}
+
+.checkbox-span[b-6xhdtlkuo4] {
+    display: block;
+    width: inherit;
+    height: inherit;
+    border: 3px solid #434343;
+    border-radius: 6px;
+    transition: all 0.375s;
+}
 /* /Pages/ViewUsers.razor.rz.scp.css */
 .user-card[b-b8bn5keb44]{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);

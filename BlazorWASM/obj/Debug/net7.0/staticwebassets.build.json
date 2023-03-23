@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NRite3Sk3fISMutawFY5DD7rxw86V9SiRbjuvu/ieBE=",
+  "Hash": "ZpM6/cCAaTW10/a5ooyK49nbCI6oKevqx6kP+d7Wt64=",
   "Source": "BlazorWASM",
   "BasePath": "/",
   "Mode": "Root",
@@ -7291,6 +7291,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon-192.png"
+    },
+    {
+      "Identity": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\icons\\edit.gif",
+      "SourceId": "BlazorWASM",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "icons/edit.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\edit.gif"
     },
     {
       "Identity": "C:\\Users\\popca\\RiderProjects\\TodoWebApp\\BlazorWASM\\wwwroot\\index.html",
